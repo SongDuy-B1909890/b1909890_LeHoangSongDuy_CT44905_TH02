@@ -1,7 +1,7 @@
-const cofig = {
+const config = {
     app: {
         port: process.env.PORT || 3000,
     }
 };
 
-module.exports = cofig;
+module.exports = config;
